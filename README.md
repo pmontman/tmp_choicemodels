@@ -1,2 +1,2 @@
-# pub-choicemodels
-Choice Modelling
+# tmp_choicemodels
+Repo for Choice Modelling
