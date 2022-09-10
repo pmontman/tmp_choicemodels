@@ -1,4 +1,4 @@
-idcase,depvar,ic.gc,ic.gr,ic.ec,ic.er,ic.hp,oc.gc,oc.gr,oc.ec,oc.er,oc.hp,income,agehed,rooms,region
+idcase,depvar,ic_gc,ic_gr,ic_ec,ic_er,ic_hp,oc_gc,oc_gr,oc_ec,oc_er,oc_hp,income,agehed,rooms,region
 1,gc,866,962.64,859.9,995.76,1135.5,199.69,151.72,553.34,505.6,237.88,7,25,6,ncostl
 2,gc,727.93,758.89,796.82,894.69,968.9,168.66,168.66,520.24,486.49,199.19,5,60,5,scostl
 3,gc,599.48,783.05,719.86,900.11,1048.3,165.58,137.8,439.06,404.74,171.47,4,65,2,ncostl
